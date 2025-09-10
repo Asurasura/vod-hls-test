@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+     xmlns:dfpvideo="http://api.google.com/dfpvideo"
+     version="2.0">
+  <channel>
+    <title>Test Feed</title>
+    <dfpvideo:version>2</dfpvideo:version>
+    <item>
+      <pubDate>Tue, 09 Sep 2025 03:58:43 GMT</pubDate>
+      <title>tears_of_steel_test</title>
+      <dfpvideo:keyvalues key="title" value="tears_of_steel_test" type="string"/>
+      <media:content 
+          duration="43320" 
+          url="https://asurasura.github.io/vod-hls-test/segments/master.m3u8" />
+      <dfpvideo:contentId>tears_of_steel_test</dfpvideo:contentId>
+      <dfpvideo:lastModifiedDate>2025-09-10T04:00:13.037Z</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>2025-09-09T03:58:43.396Z</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/x-mpegURL" preconditioned="true">
+        https://asurasura.github.io/vod-hls-test/segments/master.m3u8
+      </dfpvideo:ingestUrl>
+      <dfpvideo:keyvalues key="AdvTV_Competition" value="b208gafthlm7k9kggsqoiqckc" type="string"/>
+      <dfpvideo:keyvalues key="AdvTV_RightsHolder" value="969691512" type="string"/>
+      <dfpvideo:keyvalues key="excl_cat" value="Medicine,Vaping,Tobacco,Gambling,Alcoholic Beverages - Liquor,Religion,Alcoholic Beverages,Politics,Firearms" type="string"/>
+      <dfpvideo:keyvalues key="AdvTV_Sport" value="bv9zk8knpqhdm2mw39z5r24bx" type="string"/>
+      <dfpvideo:keyvalues key="AdvTv_PrerollEligible" value="true" type="string"/>
+      <dfpvideo:keyvalues key="AdvTV_FrameRate" value="50" type="int"/>
+      <dfpvideo:keyvalues key="AdvTV_BroadcastType" value="Host_Feed" type="string"/>
+      <dfpvideo:keyvalues key="AdvTV_Fixture" value="cqmz6w9hpan6b29lg4jujchd0" type="string"/>
+      <dfpvideo:keyvalues key="AdvTV_BroadcastTier" value="1" type="int"/>
+      <dfpvideo:keyvalues key="AdvTV_BrdcstCountry" value="ZW" type="string"/>
+      <dfpvideo:keyvalues key="AdvTV_VODType" value="91DCADFD05F16914E053823B0C0A56DC" type="string"/>
+      <dfpvideo:keyvalues key="AdvTV_Season" value="8kv7gb3h11n21earotbqwyuzb" type="string"/>
+    </item>
+  </channel>
+</rss>
